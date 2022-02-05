@@ -1,5 +1,5 @@
-# Hello-world
-Mi primer repositorio de prueba
+# HOLA-MUNDO
+Mi primer repositorio.
 
-Autor: Edward Sparks
-Fecha: 05/02/22
+Autor: Edward Sparks.
+Fecha: 5 de febrero.
